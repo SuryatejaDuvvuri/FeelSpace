@@ -1,5 +1,5 @@
 
-# DOCTOR - An AI Therapist to vent emotions
+# FeelSpace - An AI Therapist to vent emotions
 
 The app gives an option to vent through text or voice for 1 min, and the ai will identify the problem and give a response to make their day better. The user is encouraged to post their day on a feed to not feel alone.
 
