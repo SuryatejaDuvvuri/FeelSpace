@@ -17,7 +17,8 @@ To be released soon
 
 ## Screenshots
 
-![App Screenshot](/screenshots/Home.png) 
+![Home Page](/screenshots/Session.png) 
+![Main Session Page](/screenshots/Home.png) 
 
 
 ## Feedback
