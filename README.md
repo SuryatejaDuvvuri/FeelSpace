@@ -25,9 +25,3 @@ To be released soon
 
 If you have any feedback, please reach out to one of the authors. 
 
-
-
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
-
