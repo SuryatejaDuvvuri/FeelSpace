@@ -23,6 +23,8 @@ The app gives an option to vent through text or voice for 1 min, and the ai will
 <img width="284" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/47a76dc5-71e3-4c26-99c0-958d2f9a810c">
 <img width="230" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/b0e60207-e237-4948-84ca-6561a98e7439">
 <img width="247" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/10977b8b-3f48-4fbe-a89b-4fda432f461a">
+
+
 If voice:
 <img width="352" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/945183ab-39cd-40f4-b4bd-1acf20e4693f">
 
