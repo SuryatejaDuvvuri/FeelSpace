@@ -15,10 +15,10 @@ The app gives an option to vent through text or voice for 1 min, and the ai will
 <img width="266" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/e0937680-21d7-4ff6-b342-044f35b1571b">
 <img width="322" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/1d2d5a13-ae90-4b65-88e6-27513bc33771">
 <img width="332" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/9f653b40-296b-425d-a7bd-a1202a40b670">
-<img width="312" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/373c655e-5184-4dbd-ba70-1823d47f0eb0">
 <img width="293" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/1a29d6b1-b06b-4602-8cde-0ccf986651cf">
 <img width="260" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/85d88b9c-2d98-488e-be34-27ef2f4e3329">
 <img width="250" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/68254371-1e4c-4c6b-89fc-24896b7efdb2">
+<img width="312" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/373c655e-5184-4dbd-ba70-1823d47f0eb0">
 <img width="284" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/47a76dc5-71e3-4c26-99c0-958d2f9a810c">
 <img width="230" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/b0e60207-e237-4948-84ca-6561a98e7439">
 <img width="247" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/10977b8b-3f48-4fbe-a89b-4fda432f461a">
