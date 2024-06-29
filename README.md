@@ -4,22 +4,19 @@
 The app gives an option to vent through text or voice for 1 min, and the ai will identify the problem and give a response to make their day better. The user is encouraged to post their day on a feed to not feel alone.
 
 
+## Feedback
 
+If you have any feedback, please reach out to one of the authors. 
 
 ## Authors
 
 - [@Suryateja Duvvuri](https://www.github.com/suryatejaduvvuri)
 
-
-
-
-
 ## Demo
 To be released soon
-
-
 ## Screenshots
-<img width="297" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/e016e405-ac0f-4bdc-ad9a-c1adcb4c92bf">
+
+![Home]<img width="297" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/e016e405-ac0f-4bdc-ad9a-c1adcb4c92bf">
 <img width="302" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/56746f4d-a1fe-4e6f-96e7-dc41128a3eb0">
 <img width="266" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/e0937680-21d7-4ff6-b342-044f35b1571b">
 <img width="322" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/1d2d5a13-ae90-4b65-88e6-27513bc33771">
@@ -47,8 +44,7 @@ If voice:
 
 
 
+## Tech Stack
 
-## Feedback
-
-If you have any feedback, please reach out to one of the authors. 
+**Technologies Used:** Swift, SwiftUI, Hume API, SocketsIO, ChatGPT API, and Firebase Cloud FireStore. 
 
