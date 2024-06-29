@@ -1,23 +1,38 @@
 //
 //  ContentView.swift
-//  FeelSpace
+//  SwiftUIAPICalls
 //
-//  Created by Suryateja Duvvuri on 6/28/24.
+//  Created by Suryateja Duvvuri on 5/20/24.
 //
 
 import SwiftUI
 
+
+
 struct ContentView: View {
-    var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+   
+    var body: some View
+    {
+       NavigationView
+        {
+            VStack
+            {
+                NavigationLink {
+                    TextPrompt()
+                } label: {
+                    Text("Text")
+                }
+                NavigationLink {
+                    VoicePrompt()
+                } label: {
+                    Text("Voice")
+                }
+            }
+            .navigationTitle("FeelSpace")
         }
-        .padding()
     }
 }
+
 
 #Preview {
     ContentView()
