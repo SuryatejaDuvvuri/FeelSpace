@@ -16,7 +16,7 @@ If you have any feedback, please reach out to one of the authors.
 To be released soon
 ## Screenshots
 
-![Home]<img width="297" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/e016e405-ac0f-4bdc-ad9a-c1adcb4c92bf">
+![Home](https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/e016e405-ac0f-4bdc-ad9a-c1adcb4c92bf)
 <img width="302" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/56746f4d-a1fe-4e6f-96e7-dc41128a3eb0">
 <img width="266" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/e0937680-21d7-4ff6-b342-044f35b1571b">
 <img width="322" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/1d2d5a13-ae90-4b65-88e6-27513bc33771">
