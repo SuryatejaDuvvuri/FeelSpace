@@ -50,6 +50,7 @@ Requirements: Install XCode
 
 1.) Run the following commands on the terminal
 ```bash
+  mkdir developer
   cd developer
   git clone --recursive https://github.com/SuryatejaDuvvuri/FeelSpace.git
 ```
