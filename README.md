@@ -13,7 +13,7 @@ If you have any feedback, please reach out to one of the authors.
 - [@Suryateja Duvvuri](https://www.github.com/suryatejaduvvuri)
 
 ## Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1uoTuBYxqOY?si=kYtMd12aPQJrzAJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/1uoTuBYxqOY?si=kYtMd12aPQJrzAJN/maxresdefault.jpg)](https://www.youtube.com/watch?v=1uoTuBYxqOY)
 ## Screenshots
 
 ![Home](https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/e016e405-ac0f-4bdc-ad9a-c1adcb4c92bf)
