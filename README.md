@@ -13,7 +13,7 @@ If you have any feedback, please reach out to one of the authors.
 - [@Suryateja Duvvuri](https://www.github.com/suryatejaduvvuri)
 
 ## Demo
-To be released soon
+![Demo](https://www.youtube.com/watch?v=1uoTuBYxqOY)
 ## Screenshots
 
 ![Home](https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/e016e405-ac0f-4bdc-ad9a-c1adcb4c92bf)
