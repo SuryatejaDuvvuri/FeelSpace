@@ -44,6 +44,22 @@ If voice:
 
 
 
+## Installation
+
+Requirements: Install XCode
+
+1.) Run the following commands on the terminal
+```bash
+  cd developer
+  git clone --recursive https://github.com/SuryatejaDuvvuri/FeelSpace.git
+```
+2.) Launch XCode, click "Open existing project," and click "FeelSpace.xcodeproj"
+
+3.) After that, click the play button or press "Command + R" at the same to build the app. 
+
+4.) Simulator is launched and enjoy the app
+
+
 ## Tech Stack
 
 **Technologies Used:** Swift, SwiftUI, Hume API, SocketsIO, ChatGPT API, and Firebase Cloud FireStore. 
