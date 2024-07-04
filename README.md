@@ -49,5 +49,5 @@ If voice:
 
 ## Tech Stack
 
-**Technologies Used:** Swift, SwiftUI, Hume API, SocketsIO, ChatGPT API, and Firebase Cloud FireStore. 
+**Technologies Used:** Swift, SwiftUI, Hume API, SocketsIO, and Firebase Cloud FireStore. 
 
