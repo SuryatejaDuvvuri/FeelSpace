@@ -45,7 +45,7 @@ If voice:
 
 
 ## Installation
-
+Please fill out this form to be on the waitlist: https://forms.gle/6Lg94er8juk6MEnr7
 
 ## Tech Stack
 
