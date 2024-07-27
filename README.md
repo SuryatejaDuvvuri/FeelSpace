@@ -13,7 +13,10 @@ If you have any feedback, please reach out to one of the authors.
 - [@Suryateja Duvvuri](https://www.github.com/suryatejaduvvuri)
 
 ## Demo
-[![Watch the video](https://img.youtube.com/vi/1uoTuBYxqOY?si=kYtMd12aPQJrzAJN/maxresdefault.jpg)](https://www.youtube.com/watch?v=1uoTuBYxqOY)
+[![Watch the video](https://github.com/user-attachments/assets/9ef6962a-0c74-4df8-a9e6-2b24ab4281a9)](https://youtu.be/gQ2h2mTP64w)
+
+
+
 ## Screenshots
 
 ![Home](https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/e016e405-ac0f-4bdc-ad9a-c1adcb4c92bf)
