@@ -288,7 +288,7 @@ struct VoicePrompt: View {
     
     func sendHume(audioName:String) -> URLSessionWebSocketTask
     {
-        let url = URL(string: "wss://api.hume.ai/v0/evi/chat?api_key=LGJ8kPC9JSpdzmkWxzUcwQx5pGSflyGpLObEuvzLyUjlUdtg")!
+        let url = URL(string: "wss://api.hume.ai/v0/evi/chat?api_key=")!
         let webSocketTask = URLSession.shared.webSocketTask(with: url)
         webSocketTask.resume()
         
