@@ -20,9 +20,9 @@ If you have any feedback, please reach out to one of the authors.
 ## Screenshots
 
 ![Home](https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/e016e405-ac0f-4bdc-ad9a-c1adcb4c92bf)
-<img width="302" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/56746f4d-a1fe-4e6f-96e7-dc41128a3eb0">
+<img width="266" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/56746f4d-a1fe-4e6f-96e7-dc41128a3eb0">
 <img width="266" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/e0937680-21d7-4ff6-b342-044f35b1571b">
-<img width="322" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/1d2d5a13-ae90-4b65-88e6-27513bc33771">
+<img width="266" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/1d2d5a13-ae90-4b65-88e6-27513bc33771">
 <img width="332" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/9f653b40-296b-425d-a7bd-a1202a40b670">
 <img width="293" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/1a29d6b1-b06b-4602-8cde-0ccf986651cf">
 <img width="260" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/85d88b9c-2d98-488e-be34-27ef2f4e3329">
