@@ -48,7 +48,24 @@ If voice:
 
 
 ## Installation
-Please fill out this form to be on the waitlist: https://forms.gle/6Lg94er8juk6MEnr7
+Requirements: Install XCode
+
+1.) Run the following commands on the terminal
+
+```bash
+  mkdir developer
+  cd developer
+  git clone --recursive <https://github.com/SuryatejaDuvvuri/FeelSpace.git>
+
+```
+
+2.) Launch XCode, click "Open existing project," and click "FeelSpace.xcodeproj"
+
+3.) After that, click the play button or press "Command + R" at the same to build the app.
+
+4.) Simulator is launched and enjoy the app
+
+To access the app, please fill out this form to get into the database and access the AI : https://forms.gle/6Lg94er8juk6MEnr7
 
 ## Tech Stack
 
