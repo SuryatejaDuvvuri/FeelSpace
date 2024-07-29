@@ -37,7 +37,7 @@ If you have any feedback, please reach out to one of the authors.
 
 ### If voice:
 <img width="266" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/945183ab-39cd-40f4-b4bd-1acf20e4693f">
-
+<img width="266" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/a554e1b9-f84b-4da4-a9db-2c92f5a7a925">
 <img width="266" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/f3b2cc0d-037b-4e0e-83af-fbb520b5ce15">
 <img width="266" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/7d86f2f2-d660-49cd-8ab4-1d5bf526a53c">
 <img width="266" alt="image" src="https://github.com/SuryatejaDuvvuri/FeelSpace/assets/35475392/78c9c61f-0b2f-4b8c-9681-feea20b5960d">
